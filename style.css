@@ -26,12 +26,12 @@ p {
 }
 #clock .time {
   letter-spacing: 0.05em;
-  font-size: 120px;
+  font-size: 300px;
   padding: 5px 0;
 }
 #clock .date {
   letter-spacing: 0.1em;
-  font-size: 36px;
+  font-size: 120px;
 }
 #clock .text {
   letter-spacing: 0.1em;
